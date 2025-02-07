@@ -1,5 +1,4 @@
-# Path Planning Algorithm for Snow Removal
-# **Pathfinding in Snow**
+# **Path Planning Algorithm for Snow Removal**
 
 ## **Table of Contents**
 - [Introduction](#introduction)
