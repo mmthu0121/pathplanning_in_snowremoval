@@ -44,7 +44,7 @@ Before running the project, ensure the following are installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/mmthu0121/pathplanning_in_snowremoval.git
-   cd pathfindinginsnow/code/Myat_Test
+   cd pathplanning_in_snowremoval
 
 2. **Prepare the Snow Map**:  
    - Open the `generate_map.py` file located in the project folder.  
